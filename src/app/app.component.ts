@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'Projeto_Cards';
+  OnButtonClicked(event:string){
+    console.log("Você clicou no botão " + event);
+  }
 }

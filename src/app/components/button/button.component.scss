@@ -1,0 +1,16 @@
+.button{
+    border-radius: 10px;
+    border: none;
+    width:100%;
+    cursor: pointer;
+    padding: 10px;
+    letter-spacing: 10px;
+
+    &--green{
+        background-color: greenyellow;
+    }
+
+    &--white{
+        background-color: white;
+    }
+}

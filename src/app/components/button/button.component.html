@@ -1,0 +1,8 @@
+<button class = "button" [class]="{
+    'button--green': buttonClass === 'green' ? true : false,
+    'button--white': buttonClass === 'white' ? true : false
+}"
+(click)="onButtonClicked()"
+>{{buttonText}}
+</button>
+
