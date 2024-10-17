@@ -1,6 +1,12 @@
 # ProjetoCards
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
+Desenvolvi esse pequeno projeto em angular com foco em nas primeiras interações com o framework, onde eu pratiquei a componetização de cards.
+
+## Habilidades desenvolvidas:
+  - Class Binding: Onde eu usei o conhecimento de Class bingding para mudar as cores dos cards e dos botões.
+  - Data Binding: Temos também dados sendo passados de maneira dinamica.
+  - A utilização dos Decorators @Input e @Output.
+  - Aplicação Básica do conhecimento de Event Binding;
 
 ## Development server
 
